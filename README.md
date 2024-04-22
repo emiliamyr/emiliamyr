@@ -2,10 +2,7 @@
 
 [My homepage](https://emiliamyr.github.io/)
 
-
-- 🔭 I’m currently working on [MontePyton](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/MontePyton).
-- 🌱 I’m currently learning C.
-- 🤔 I’m looking for help with everything.
+- 🌱 I’m currently learning C#.
 - 😄 Pronouns: she/her.
 - 🍴 Link to my [fork](https://github.com/emiliamyr/fork) and to [Paperswithcode](https://paperswithcode.com/paper/regnet-self-regulated-network-for-image).
 
